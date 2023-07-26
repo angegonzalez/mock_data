@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Cocoa Feuilletine",
-      "description": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+      "description": "Sed sagittis.",
       "price": 453.03,
       "currency": "IDR",
       "image": "http://dummyimage.com/141x117.png/cc0000/ffffff",
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "title": "Wine - Sherry Dry Sack, William",
-      "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+      "description": "Morbi non lectus.",
       "price": 722.09,
       "currency": "ZMW",
       "image": "http://dummyimage.com/168x210.png/5fa2dd/ffffff",
