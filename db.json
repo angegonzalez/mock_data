@@ -134,60 +134,6 @@
       "currency": "CZK",
       "image": "http://dummyimage.com/212x138.png/ff4444/ffffff",
       "rating": 3.2
-    },
-    {
-      "id": 16,
-      "title": "Liqueur Banana, Ramazzotti",
-      "description": "Praesent blandit.",
-      "price": 661.37,
-      "currency": "THB",
-      "image": "http://dummyimage.com/221x195.png/dddddd/000000",
-      "rating": 2.7
-    },
-    {
-      "id": 17,
-      "title": "Chicken - Whole",
-      "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",
-      "price": 744.33,
-      "currency": "ZAR",
-      "image": "http://dummyimage.com/250x188.png/dddddd/000000",
-      "rating": 2.2
-    },
-    {
-      "id": 18,
-      "title": "Wasabi Paste",
-      "description": "Aenean lectus.",
-      "price": 82.96,
-      "currency": "CNY",
-      "image": "http://dummyimage.com/185x182.png/dddddd/000000",
-      "rating": 4.3
-    },
-    {
-      "id": 19,
-      "title": "Cactus Pads",
-      "description": "Nam nulla.",
-      "price": 37.87,
-      "currency": "NPR",
-      "image": "http://dummyimage.com/110x143.png/5fa2dd/ffffff",
-      "rating": 4.8
-    },
-    {
-      "id": 20,
-      "title": "Rice - Wild",
-      "description": "Vestibulum ac est lacinia nisi venenatis tristique.",
-      "price": 963.63,
-      "currency": "MNT",
-      "image": "http://dummyimage.com/243x117.png/cc0000/ffffff",
-      "rating": 2.6
-    },
-    {
-      "id": 21,
-      "title": "Roe - Lump Fish, Black",
-      "description": "In hac habitasse platea dictumst.",
-      "price": 527.87,
-      "currency": "CZK",
-      "image": "http://dummyimage.com/143x127.png/cc0000/ffffff",
-      "rating": 4.0
     }
   ]
 }
