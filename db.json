@@ -89,6 +89,15 @@
       "currency": "PYG",
       "image": "http://dummyimage.com/219x129.png/cc0000/ffffff",
       "rating": 3.9
-    }
+    },
+    {
+        "id": 11,
+        "title": "Wine - White, French Cross 2",
+        "description": "Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus.",
+        "price": 527.84,
+        "currency": "PYG",
+        "image": "http://dummyimage.com/219x129.png/cc0000/ffffff",
+        "rating": 3.9
+      }
   ]
 }
